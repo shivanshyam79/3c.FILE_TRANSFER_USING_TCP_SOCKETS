@@ -2,8 +2,8 @@
  
 ### NAME: shyam R
 ### ROLL NO : 212223040200
-### DEPARTMENT: IT  
-### DATE:24\10\2024
+### DEPARTMENT:CSE  
+### DATE:10\11\24
 
 ## AIM:
 To write a python program for creating File Transfer using TCP Sockets Links.
@@ -17,7 +17,7 @@ To write a python program for creating File Transfer using TCP Sockets Links.
    
 ## PROGRAM:
 ```py
-CLIENT:
+CLIENT:10|
 
 import socket 
 s = socket.socket() 
